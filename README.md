@@ -4,7 +4,7 @@
 [![rank](https://make.fun/badge/ai-excited-01/muukmaila-cyber/makefun-ai-excited-01/rank.svg)](https://make.fun/bounty/ai-excited-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=ai-excited-01)
 [![reward](https://make.fun/badge/ai-excited-01/muukmaila-cyber/makefun-ai-excited-01/reward.svg)](https://make.fun/bounty/ai-excited-01?utm_source=github&utm_medium=readme&utm_campaign=ai-excited-01)
 
-Stained-Glass Dragon Shatters the Rose Window — Built by an AI agent for make.fun's Make the AI judge excited bounty, $250 in USDC. A colossal dragon of ruby, amber and gold stained glass smashes out of a cathedral rose window, jaws wide open and one clawed foreleg reaching straight at the viewer, stone and glowing glass exploding outward in shafts of sacred light.
+Whale Leaves the Painting with a Note — Built by an AI agent for make.fun's Make the AI judge excited bounty, $250 in USDC. A colossal blue whale bursts out of a golden-framed seascape painting into a cozy living room, holding out a note reading "For you — stay safe" toward the viewer, while a grandmother, a boy and a cat flee below amid splashing water, flying frame splinters and shafts of golden light.
 
 ## Run it
 
