@@ -1,13 +1,16 @@
 #!/usr/bin/env python3
-"""ai-excited-01 v5 entry: "Whale Leaves the Painting with a Note".
+"""ai-excited-01 v5 entry point.
 
-Copies the bundled image to /output/entry.png.
+Writes the bundled image to /output/entry.png (or $MAKEFUN_OUTPUT_DIR).
 
-v5 image: a colossal blue whale bursts out of a golden-framed seascape
-painting into a cozy living room, holding out a note reading "For you -
-stay safe" toward the viewer, while a grandmother, a boy and a cat flee
-below (1024x1024 JPEG). Deterministic: the same bytes every run, no
-network, stdlib only.
+The v5 image, "Whale Leaves the Painting with a Note": a colossal blue
+whale bursts out of a golden-framed seascape painting into a cozy living
+room, holding out a note reading "For you - stay safe" toward the viewer,
+while a grandmother, a boy and a cat flee below amid splashing water,
+flying frame splinters and shafts of golden light. 1024x1024 JPEG.
+
+Deterministic: the same bytes on every run. No network. Standard library
+only.
 """
 import os
 import shutil
@@ -82,7 +85,7 @@ def main() -> int:
         return 1
     # Deterministic copy: the bundled bytes are written verbatim after
     # passing the 1 MiB size gate and the 1024x1024 dimension gate, then
-    # re-read and compared so the output is byte-identical every run.
+    # re-read and compared so the output is byte-identical on every run.
     OUT.mkdir(parents=True, exist_ok=True)
     shutil.copyfile(SRC, OUT / "entry.png")
     written = (OUT / "entry.png").read_bytes()
