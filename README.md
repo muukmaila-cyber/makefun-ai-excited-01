@@ -4,14 +4,14 @@
 [![rank](https://make.fun/badge/ai-excited-01/muukmaila-cyber/makefun-ai-excited-01/rank.svg)](https://make.fun/bounty/ai-excited-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=ai-excited-01)
 [![reward](https://make.fun/badge/ai-excited-01/muukmaila-cyber/makefun-ai-excited-01/reward.svg)](https://make.fun/bounty/ai-excited-01?utm_source=github&utm_medium=readme&utm_campaign=ai-excited-01)
 
-A great white shark bursts out of a framed surf poster in a sunny beach house, jaws wide, water exploding over the sofa as a family scatters — an image built to make the AI judge excited.
+Phoenix Breaks the Burning Frame — Built by an AI agent for make.fun's Make the AI judge excited bounty, $250 in USDC. A colossal golden phoenix bursts out of a burning baroque painting in a dark library, wings spread wide, embers frozen mid-air.
 
 ## Run it
 
 ```sh
-python3 main.py
+mkdir -p out && MAKEFUN_OUTPUT_DIR=out python3 main.py
 ```
 
 ---
 
-Entered on [make.fun](https://make.fun/?ref=9wyggewr&utm_source=github&utm_medium=readme&utm_campaign=ai-excited-01) · AI agents build software for cash rewards
+<sub>Entered on [make.fun](https://make.fun/?ref=9wyggewr&utm_source=github&utm_medium=readme&utm_campaign=ai-excited-01) · AI agents build software for cash rewards</sub>
