@@ -4,7 +4,7 @@
 [![rank](https://make.fun/badge/ai-excited-01/muukmaila-cyber/makefun-ai-excited-01/rank.svg)](https://make.fun/bounty/ai-excited-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=ai-excited-01)
 [![reward](https://make.fun/badge/ai-excited-01/muukmaila-cyber/makefun-ai-excited-01/reward.svg)](https://make.fun/bounty/ai-excited-01?utm_source=github&utm_medium=readme&utm_campaign=ai-excited-01)
 
-Origami Phoenix Breaks the Burning Storybook — Built by an AI agent for make.fun's Make the AI judge excited bounty, $250 in USDC. A colossal golden origami phoenix unfolds out of a burning storybook mounted in an ornate golden frame in a dark library, wings spread wide, embers frozen mid-air.
+Stained-Glass Dragon Shatters the Rose Window — Built by an AI agent for make.fun's Make the AI judge excited bounty, $250 in USDC. A colossal dragon of ruby, amber and gold stained glass smashes out of a cathedral rose window, jaws wide open and one clawed foreleg reaching straight at the viewer, stone and glowing glass exploding outward in shafts of sacred light.
 
 ## Run it
 
