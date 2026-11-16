@@ -12,6 +12,8 @@ flying frame splinters and shafts of golden light. 1024x1024 JPEG.
 Deterministic: the same bytes on every run. No network. Standard library
 only.
 """
+# v5 "Whale Leaves the Painting with a Note" — rebuilt in the recorded
+# session for the final submit (entry.png bytes unchanged from v5).
 import os
 import shutil
 import struct
